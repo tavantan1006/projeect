@@ -1,0 +1,33 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 01 Oct 2021 14:00:51 at https://digitalstore.exdomain.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://digitalstore.exdomain.net/ -O1 "C:\My Web Sites\project" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:06:09	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link genknews.genkcdn.vn/thumb_w/640/2017/product-red-main-1490101366735.jpg (from https://digitalstore.exdomain.net/news/news?news_id=7)
+14:06:09	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link genknews.genkcdn.vn/thumb_w/640/2017/4004097-iphone-do-tinhte-6-1490103120036.png (from https://digitalstore.exdomain.net/news/news?news_id=7)
+14:06:09	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link genknews.genkcdn.vn/thumb_w/640/2017/product-red-backfront-1490101367230.jpg (from https://digitalstore.exdomain.net/news/news?news_id=7)
+14:06:09	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link genknews.genkcdn.vn/thumb_w/640/2017/product-red-box-1490101367383.jpg (from https://digitalstore.exdomain.net/news/news?news_id=7)
+14:06:09	Warning: 	Retry after error -4 (Connect Error) at link www.pcworld.com.vn/files/articles/2014/1235979/apple-event-supp.jpg (from https://digitalstore.exdomain.net/10-dieu-can-biet-ve-dong-ho-apple-watch)
+14:06:16	Warning: 	Retry after error -4 (Connect Error) at link www.pcworld.com.vn/files/articles/2014/1235979/10406-2625-7382303226a9f08004599da8928e762cf268dd3a-large-2x-l.png (from https://digitalstore.exdomain.net/10-dieu-can-biet-ve-dong-ho-apple-watch)
+14:06:30	Warning: 	Retry after error -4 (Connect Error) at link www.pcworld.com.vn/files/articles/2014/1235979/10406-2626-8aa859f5717a1a5c80a1c2b723a0734fa39b84f1-large-2x-l.png (from https://digitalstore.exdomain.net/10-dieu-can-biet-ve-dong-ho-apple-watch)
+14:14:01	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link genknews.genkcdn.vn/thumb_w/640/2017/product-red-main-1490101366735.jpg (from https://digitalstore.exdomain.net/news/news?news_id=7)
+14:14:01	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link genknews.genkcdn.vn/thumb_w/640/2017/4004097-iphone-do-tinhte-6-1490103120036.png (from https://digitalstore.exdomain.net/news/news?news_id=7)
+14:14:01	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link genknews.genkcdn.vn/thumb_w/640/2017/product-red-backfront-1490101367230.jpg (from https://digitalstore.exdomain.net/news/news?news_id=7)
+14:14:01	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link genknews.genkcdn.vn/thumb_w/640/2017/product-red-box-1490101367383.jpg (from https://digitalstore.exdomain.net/news/news?news_id=7)
+14:14:01	Warning: 	Retry after error -4 (Connect Error) at link www.pcworld.com.vn/files/articles/2014/1235979/apple-event-supp.jpg (from https://digitalstore.exdomain.net/10-dieu-can-biet-ve-dong-ho-apple-watch)
+14:14:01	Warning: 	Retry after error -4 (Connect Error) at link www.pcworld.com.vn/files/articles/2014/1235979/10406-2625-7382303226a9f08004599da8928e762cf268dd3a-large-2x-l.png (from https://digitalstore.exdomain.net/10-dieu-can-biet-ve-dong-ho-apple-watch)
+14:14:01	Warning: 	Retry after error -4 (Connect Error) at link www.pcworld.com.vn/files/articles/2014/1235979/10406-2626-8aa859f5717a1a5c80a1c2b723a0734fa39b84f1-large-2x-l.png (from https://digitalstore.exdomain.net/10-dieu-can-biet-ve-dong-ho-apple-watch)
+14:14:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://digitalstore.exdomain.net/mac?sort=pd.name&order=DESC&limit=24 (from https://digitalstore.exdomain.net/mac?limit=24)
+14:16:11	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link genknews.genkcdn.vn/thumb_w/640/2017/product-red-main-1490101366735.jpg (from https://digitalstore.exdomain.net/news/news?news_id=7)
+14:16:11	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link genknews.genkcdn.vn/thumb_w/640/2017/4004097-iphone-do-tinhte-6-1490103120036.png (from https://digitalstore.exdomain.net/news/news?news_id=7)
+14:16:11	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link genknews.genkcdn.vn/thumb_w/640/2017/product-red-backfront-1490101367230.jpg (from https://digitalstore.exdomain.net/news/news?news_id=7)
+14:16:11	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link genknews.genkcdn.vn/thumb_w/640/2017/product-red-box-1490101367383.jpg (from https://digitalstore.exdomain.net/news/news?news_id=7)
+14:16:11	Error: 	"Connect Error" (-4) after 2 retries at link www.pcworld.com.vn/files/articles/2014/1235979/apple-event-supp.jpg (from https://digitalstore.exdomain.net/10-dieu-can-biet-ve-dong-ho-apple-watch)
+14:16:11	Error: 	"Connect Error" (-4) after 2 retries at link www.pcworld.com.vn/files/articles/2014/1235979/10406-2625-7382303226a9f08004599da8928e762cf268dd3a-large-2x-l.png (from https://digitalstore.exdomain.net/10-dieu-can-biet-ve-dong-ho-apple-watch)
+14:16:11	Error: 	"Connect Error" (-4) after 2 retries at link www.pcworld.com.vn/files/articles/2014/1235979/10406-2626-8aa859f5717a1a5c80a1c2b723a0734fa39b84f1-large-2x-l.png (from https://digitalstore.exdomain.net/10-dieu-can-biet-ve-dong-ho-apple-watch)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 minutes 39 seconds : 1724 links scanned, 1701 files written (88683044 bytes overall) [37047950 bytes received at 39454 bytes/sec], 73319749 bytes transferred using HTTP compression in 1288 files, ratio 28%, 32.9 requests per connection
+(7 errors, 15 warnings, 0 messages)

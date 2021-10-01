@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+digitalstore.exdomain.net	TRUE	/	FALSE	1999999999	PHPSESSID	j18fn04ccmb7h25u71t10okvr7
+digitalstore.exdomain.net	TRUE	/	FALSE	1999999999	language	vi-vn
+digitalstore.exdomain.net	TRUE	/	FALSE	1999999999	currency	VND
+developers.google.com	TRUE	/	FALSE	1999999999	_ga_devsite	GA1.3.2944651175.1633071692
+digitalstore.exdomain.net	TRUE	/	FALSE	1999999999	default	mt41e6nma5k7pfsicn9vcgf6i2
+digitalstore.exdomain.net	TRUE	/	FALSE	1999999999	recent_product	62%2C63%2C64%2C65%2C66%2C67%2C68%2C69%2C70
+
